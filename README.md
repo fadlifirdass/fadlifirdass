@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadlifirdass" alt="fadlifirdass" /></a> </p>
 
-- 🔭 I’m currently working on [PT Dans MultiPro](https://dansmultipro.com/)
+- 🔭 I’m currently working at [PT Dans MultiPro](https://dansmultipro.com/)
 
 - 🌱 I’m currently learning **NextJS, TypeScript, Message Broker (RabbitMQ & Kafka)**
 
