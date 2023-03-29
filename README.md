@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [PT Dans MultiPro](https://dansmultipro.com/)
 
-- 🌱 I’m currently learning **NextJS, TypeScript, Message Broker (RabbitMQ & Kafka)**
+- 🌱 I’m currently learning **NextJS, TypeScript, GraphQL ,Message Broker (RabbitMQ & Kafka)**
 
 - 💬 Ask me about **NodeJS, ReactJS, Redux, ExpresJS, PHP, Unity, NextJS, REST API, & Deployment**
 
